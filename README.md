@@ -34,7 +34,7 @@ Editors built around agents that read, plan, and change a codebase.
 
 Desktop workspaces that run several command-line agents at once, usually one Git worktree per task, and bring terminals, diffs, and review into one window.
 
-- [Agentastic](https://www.agentastic.dev/multi-agent-ide) - Native multi-agent IDE that runs Claude Code, Codex, Gemini CLI, and dozens of other agent CLIs in isolated worktrees or containers, with an editor, browser, and diff review. macOS. Proprietary.
+- [Agentastic.dev](https://www.agentastic.dev/multi-agent-ide) - Native multi-agent IDE that runs Claude Code, Codex, Gemini CLI, and dozens of other agent CLIs in isolated worktrees or containers, with an editor, browser, and diff review. macOS. Proprietary.
 - [bb](https://github.com/get-bb/bb) - Agentic IDE that can drive and customize itself, with desktop, web, CLI, and HTTP API surfaces for steering agent threads. Open source (MIT).
 - [CodeNomad](https://github.com/NeuralNomadsAI/CodeNomad) - Desktop and browser workspace for OpenCode that keeps long conversations and worktrees organized across projects. Open source (MIT).
 - [Conductor](https://www.conductor.build) - Mac app that gives each Claude Code, Codex, Cursor, or OpenCode task its own worktree-backed workspace, with setup scripts, checks, and pull requests, plus optional cloud workspaces. macOS. Proprietary.
