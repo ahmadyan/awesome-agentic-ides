@@ -97,6 +97,7 @@ Phone and browser clients for starting, steering, and approving agents that run 
 - [Happy](https://github.com/slopus/happy) - End-to-end encrypted iOS, Android, and web client that wraps Claude Code and Codex so you can take over a session from your phone. Open source (MIT).
 - [Moshi](https://getmoshi.app) - Mobile terminal for iOS and Android built for agent sessions, with Mosh, push notifications, and voice input. Proprietary.
 - [omg.dev](https://github.com/BennyKok/omg.dev) - Self-hostable harness for giving Claude Code, Codex, and other agents tasks from a phone and getting notified when they finish. Open source (MIT).
+- [Sillage](https://github.com/MarlBurroW/sillage) - Self-hosted, mobile-first web UI that drives the Claude Code and Codex CLIs on your own machine, with sessions that outlive the client, full-text search across conversations, an IDE panel with file explorer, editor, diffs, and terminal, worktrees, and an installable PWA with push. Open source (MIT).
 - [VibeTunnel](https://github.com/amantus-ai/vibetunnel) - Mac app that proxies your terminals into any browser so you can check on agents away from your desk. macOS. Open source (MIT).
 
 ## Standards
