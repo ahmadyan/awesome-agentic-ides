@@ -74,6 +74,7 @@ Terminals, multiplexers, and TUIs for keeping many agent sessions alive and visi
 - [cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based terminal with vertical tabs that show each workspace's branch and ports, notifications when an agent needs you, and a scriptable browser. macOS. Open source (GPL-3.0-or-later).
 - [dmux](https://github.com/standardagents/dmux) - Multiplexer that opens tmux panes for coding agents, each in its own Git worktree, and helps merge the results. Open source (MIT).
 - [herdr](https://github.com/herdrdev/herdr) - Terminal runtime that keeps agent sessions running in a background server after you disconnect and restores them after a restart. Open source (Apache-2.0).
+- [Mel](https://www.openmel.dev) - Agentic terminal that runs a lead agent with worker agents in parallel and can host CLI agents such as Claude Code and Codex CLI, with diff review and configurable approvals. macOS, Windows, Linux. Proprietary.
 - [Warp](https://github.com/warpdotdev/warp) - Terminal-born agentic development environment with a built-in agent that also hosts Claude Code, Codex, and other CLI agents. Open source (AGPL-3.0).
 
 ## First-party agent apps
