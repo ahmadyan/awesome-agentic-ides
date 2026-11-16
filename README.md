@@ -59,6 +59,7 @@ Desktop workspaces that run several command-line agents at once, usually one Git
 Task-first tools that plan work, assign it to agents, and track it through review and merge.
 
 - [Agent Orchestrator](https://github.com/OrchestratorInc/agent-orchestrator) - Plans, runs, and supervises teams of coding agents from planning to merge, with any agent harness and a worktree per task. Open source (Apache-2.0).
+- [Clairvoyance](https://www.clairvoyanceai.com/) - Cross-platform desktop and web workspace that plans work and assigns it to multiple coding agents (Claude Code, Codex, Copilot, Gemini) and local models in parallel, with persistent per-project memory and self-directed Missions that plan, execute, and review. Proprietary.
 - [Kandev](https://github.com/kdlbs/kandev) - Kanban board and development environment for running tasks in parallel, orchestrating agents, and reviewing their changes. Open source (AGPL-3.0).
 - [Traycer](https://github.com/traycerai/traycer) - Orchestration app that runs several agents in parallel on your existing provider subscriptions, with shared memory between them. Open source (MIT).
 - [Vibe Kanban](https://github.com/BloopAI/vibe-kanban) - Kanban board that hands each card to Claude Code, Codex, or another agent in its own worktree. The project has announced that it is sunsetting. Open source (Apache-2.0).
